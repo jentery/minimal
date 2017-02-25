@@ -9,7 +9,7 @@
 title:            Minimal Computing
 email:            jentery@uvic.ca
 description:      An Introduction 
-baseurl:          'minimal' # The subpath of your site, e.g. /blog
+baseurl:          '/minimal' # The subpath of your site, e.g. /blog
 url:              'https://jentery.github.io' # The base hostname & protocol for your site
 github_username:  jentery
 twitter_username: jenterysayers
