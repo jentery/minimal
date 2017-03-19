@@ -8,7 +8,7 @@
 # Site settings
 title:            Minimal Computing
 email:            jentery@uvic.ca
-description:      digital without feature creep
+description:      digital w/o feature creep
 baseurl:          '/minimal' # The subpath of your site, e.g. /blog
 url:              'https://jentery.github.io' # The base hostname & protocol for your site
 github_username:  jentery
