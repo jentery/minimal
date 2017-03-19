@@ -28,7 +28,6 @@ $(document).ready(function() {
       search_result_template = "\
         <div class='search-results__item'>\
           <a class='search-results__item__title' href='{{link}}'>{{title}}</a>\
-          <span class='post__date'>{{pubDate}}</span>\
         </div>";
 
   toggle_search.click(function(event) {
