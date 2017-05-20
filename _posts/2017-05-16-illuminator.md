@@ -10,4 +10,4 @@ image: '/images/posts/illum.png'
 
 The collective has staged hundreds of projection-interventions in public spaces, transforming the street from a space of passive consumption and transit into a site of engagement, conflict, and dialogue. Our work calls attention to the many urgent crises that confront us, in support of the ongoing struggle for a more just, peaceful and sustainable world."
 
-By We, at [theilluminator.org/](http://theilluminator.org/)
+By We, at [theilluminator.org](http://theilluminator.org/)
