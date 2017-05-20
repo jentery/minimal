@@ -3,7 +3,7 @@ layout: post
 title: The Illuminator (Case Study)  
 featured: false
 author: jentery
-image: '/images/posts/illuminator.png'
+image: '/images/posts/illum.png'
 ---
 
 "The Illuminator is an art-activist collective comprised of visual artists, educators, filmmakers, and technologists living and working in New York City.
