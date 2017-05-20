@@ -10,4 +10,4 @@ image: '/images/posts/screening.png'
 
 However, the Apple IIe soon became obsolete and the poems became essentially inaccessible. But in 1992, four years after the death of bpNichol, J. B. Hohm, a student at the University of Calgary in Alberta, Canada, began creating a HyperCard version of *First Screening* with the approval of Ellie Nichol, bp’s widow, and with assistance from Dennis Johnson and Fred Wah. In 1993, Red Deer College Press published it on a 3.5" floppy disk for the Macintosh computer." 
 
-By bpNichol, care of Jim Andrews, at [vispo.com/bp/](http://www.vispo.com/bp/) + [bpnichol.ca/archive/video/first-screening](http://www.bpnichol.ca/archive/video/first-screening)
+By bpNichol, care of Jim Andrews, at [vispo.com/bp](http://www.vispo.com/bp/) + [bpnichol.ca/archive/video/first-screening](http://www.bpnichol.ca/archive/video/first-screening)
