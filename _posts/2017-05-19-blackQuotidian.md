@@ -10,4 +10,4 @@ image: '/images/posts/blackQuotidian.png'
 
 During the first phase of *Black Quotidian* (January 2016 through January 2017), I posted at least one black newspaper article from that date in history, accompanied by brief commentary. Launched on Martin Luther King Jr. Day 2016, the project now includes more than 365 posts and more than 1,000 media objects. So far, over three dozen undergraduates, graduate students, professors, and independent scholars have contributed guest posts."
 
-By Matthew F. Delmont, at [blackquotidian.com/anvc/black-quotidian/](http://blackquotidian.com/anvc/black-quotidian/)
+By Matthew F. Delmont, at [blackquotidian.com](http://blackquotidian.com/anvc/black-quotidian/)
