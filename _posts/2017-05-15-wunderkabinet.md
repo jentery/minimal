@@ -10,4 +10,4 @@ image: '/images/posts/wunderkabinet.png'
 
 The boundary between reality and imagination is blurred as *Wunderkabinet*'s central character 'Alice May Williams' makes her strange and magical journey in search of the scientists of the Mount Wilson Observatory to whom she has been sending abundant correspondence, only to find herself in a strange cabinet of curiosities where she eventually becomes a docent."
 
-By Pamela Z, Matthew Brubeck, Christina McPhee, and Elaine Buckholtz, at [pamelaz.com/wunderkabinet.html](http://www.pamelaz.com/wunderkabinet.html)
+By Pamela Z, Matthew Brubeck, Christina McPhee, and Elaine Buckholtz, at [pamelaz.com/wunderkabinet.html](http://www.pamelaz.com/wunderkabinet.html) (photo credit: Leo Germano) 
