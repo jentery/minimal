@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slope : Intercept (Case Study)  
+title: Slope - Intercept (Case Study)  
 featured: false
 author: jentery
 image: '/images/posts/slopeIntercept.png'
