@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Types
-image: '/images/pages/types.png'
+image: '/images/pages/frameworks.png'
 ---
 
 Soon.
