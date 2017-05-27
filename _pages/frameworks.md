@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Types
+title: Frameworks
 image: '/images/pages/frameworks.png'
 ---
 
