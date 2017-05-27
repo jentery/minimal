@@ -15,7 +15,7 @@ github_username:  jentery
 twitter_username: jenterysayers
 
 markdown:  kramdown
-permalink: pretty
+permalink: /:title/
 paginate:  50
 
 gems:
