@@ -6,18 +6,18 @@ image: '/images/pages/approaches.png'
 
 Soon.
 
-## Functional Minimalism 
+## Function
 
 Soon. 
 
-## Structural Minimalism 
+## Structure 
 
 Soon.  
 
-## Architectural Minimalism
+## Architecture
 
 Soon.  
 
-## Compositional Minimalism
+## Composition
 
 Soon.
