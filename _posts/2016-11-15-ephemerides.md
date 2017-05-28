@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ephemerides (Case Study)  
+title: The Ephemerides 
 featured: false
 author: jentery
 image: '/images/posts/ephemerides.png'
