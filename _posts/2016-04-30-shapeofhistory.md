@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Shape of History (Case Study)  
+title: The Shape of History
 featured: false
 author: jentery
 image: '/images/posts/soh.png'
