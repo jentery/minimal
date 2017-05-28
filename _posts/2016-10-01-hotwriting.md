@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hotwriting (Case Study)  
+title: Hotwriting 
 featured: false
 author: jentery
 image: '/images/posts/hotwriting.png'
