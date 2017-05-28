@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LaTeX Boilerplates (Case Study)  
+title: LaTeX Boilerplates
 featured: false
 author: jentery
 image: '/images/posts/latexBoilerplates.png'
