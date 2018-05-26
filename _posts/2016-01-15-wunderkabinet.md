@@ -3,6 +3,7 @@ layout: post
 title: Wunderkabinet
 featured: false
 author: jentery
+tags: courses books
 image: '/images/posts/wunderkabinet.png'
 ---
 

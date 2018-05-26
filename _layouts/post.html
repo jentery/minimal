@@ -28,9 +28,15 @@ layout: default
         <div class="post-content" itemprop="articleBody">
           {{ content }}
           <div class="post__tags">
-            {% for tag in page.tags %}
+            <!--{% for tag in page.tags %}
               <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-            {% endfor %}
+            {% endfor %}-->
+            <span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
           </div>
         </div>
       </article>

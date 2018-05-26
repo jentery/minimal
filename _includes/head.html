@@ -17,4 +17,9 @@
   <script>
     var base_url = {{ site.baseurl | jsonify }};
   </script>
+
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+
 </head>
